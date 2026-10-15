@@ -1,0 +1,19 @@
+{
+  "name": "MY COACH 2027",
+  "short_name": "MY COACH",
+  "description": "لعبة إدارة مسيرة مدرب كرة قدم — نسخة تجريبية قابلة للعب",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08131d",
+  "theme_color": "#08131d",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
